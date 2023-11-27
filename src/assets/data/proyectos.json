@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "modalidad": "info",
+    "alumnos": "Francisco Behrendt Petri"
+  },
+  {
+    "id": 1,
+    "modalidad": "arte",
+    "alumnos": "Enzo Francescolli"
+  },
+  {
+    "id": 2,
+    "modalidad": "sociales",
+    "alumnos": "Jimena Kamps"
+  },
+  {
+    "id": 3,
+    "modalidad": "alim",
+    "alumnos": "Luciano Brito"
+  },
+  {
+    "id": 4,
+    "modalidad": "eco",
+    "alumnos": "Juan Agustín Brito"
+  }
+]

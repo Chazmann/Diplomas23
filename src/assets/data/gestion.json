@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "modalidad": "eco",  
+    "alumnos": "Josefina Choque Jarpa"
+      },
+  {
+    "id": 1,
+    "modalidad": "eco",
+    "alumnos": "Maximiliano Gonzalez Gonzalez"
+      }
+,
+  {
+    "id": 2,
+    "modalidad": "eco",
+    "alumnos": "Alumno 2"
+  },
+  {"id": 3,
+  "modalidad": "eco",
+  "alumnos": "Juan Pablo Salleras Tiesi"
+}
+    
+]

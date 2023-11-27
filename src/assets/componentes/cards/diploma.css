@@ -1,0 +1,89 @@
+a{text-decoration: none;}
+.diploma {
+    box-sizing: border-box;
+   height: 330px;
+    flex: 1 0 438px;
+    overflow: hidden;
+    box-shadow: 0 0 15px -2px rgba(0, 0, 0, 0.2);
+   position: relative;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+.banner {
+    height: 250px;
+    width: 100%;   
+    position: relative;
+    border-radius: 44px;
+    overflow: hidden;
+}
+
+.imgportada {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+  
+    /* background-image: url(diplomamedia-02.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    object-fit: cover;
+
+}
+
+.alimentos {
+    padding: 10px 2rem;
+    position: absolute;
+    bottom: 30px;
+    right: 0px;   
+    line-height: 1.5em;
+    color: white;
+    background-color: rgba(13, 144, 22, 0.831);
+    border-radius: 40px 0 0 40px;
+    box-shadow: 0 0 10px -3px rgba(47, 219, 58, 0.848)
+}
+.info {
+    padding: 10px 2rem;
+    position: absolute;
+    bottom: 30px;
+    right: 0px;   
+    line-height: 1.5em;
+    color: white;
+    background-color: rgba(42, 83, 232, 0.859);
+    border-radius: 40px 0 0 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 0 0 10px -3px rgba(33, 55, 136, 0.859)
+}
+.nombre{
+    position: absolute;
+    top: 36%;
+    height: 200px;
+    width: 80%;
+    padding: 14px;
+    text-align: center;
+    }
+
+.btnLink{position: absolute;
+    border-radius: 25px;
+    background: #3586ff;
+    padding: 8px 30px;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    transition: all .1s linear;
+
+}
+.btnLink:hover {
+    cursor: pointer;
+   
+    box-shadow: 0 3px 10px -3px #2154a0;
+}
+.btnLink:active {
+    cursor: pointer;
+    background: #5599ff;
+    box-shadow: 0 0px 10px -3px #2154a0;
+    transform: translateY(1px);
+}
+

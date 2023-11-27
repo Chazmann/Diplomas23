@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "modalidad": "sociales",
+    "escuela": "media",
+    "alumnos": "Francisco Behrendt Petri"
+      },
+  {
+    "id": 0,
+    "modalidad": "sociales",
+    "escuela": "media",
+    "alumnos": "Francisco Behrendt Petri"
+      }
+,
+  {
+    "id": 2,
+    "modalidad": "sociales",
+    "escuela": "tecnica",
+    
+    "proyecto": "Simulador de Comida",
+    "descrip": "Los alumnos elaboraron con 2 impresoras matriz de punto un simulador de vuelo con sensaciones gravitatorias incomparables",
+    "alumnos": "Jimena Kamps",
+    "url": "#",
+    "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpUmvwqNLNevVWmfxQQQKB9-GyiUPa-cVuQ&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "modalidad": "sociales",
+   
+    "proyecto": "ALL School - Gestión Escolar",
+    "descrip": "Los alumnos un sistema de gestión integral escolar. Ahora disponible para celulares",
+    "alumnos": "Juan Pinardi",
+    "url": "https://allschool.com.ar/",
+    "imgurl": "https://allschool.com.ar/img/img-general/new-icon.svg"
+  },
+  {
+    "id": 4,
+    "modalidad": "sociales",
+    
+    "proyecto": "ALL School - Gestión Escolar",
+    "descrip": "Los alumnos un sistema de gestión integral escolar. Ahora disponible para celulares",
+    "alumnos": "Juan Pinardi",
+    "url": "https://allschool.com.ar/",
+    "imgurl": "https://allschool.com.ar/img/img-general/new-icon.svg"
+  }
+]
