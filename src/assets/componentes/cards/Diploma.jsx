@@ -1,42 +1,46 @@
 import './diploma.css'
+import tec from '/diplomatec.jpg'
+import media from '/diplomamedia.jpg'
 
 
 
 export const Diploma = (props) => {
     let mod = props.modalidad == 'Alimentos' ? 'alimentos' : 'info'
-   
+    let imgmod = props.escuela == 'media' ? './diplomamedia.jpg' :
+        './diplomatec.jpg'
+
     let modal = props.modalidad;
     let modfinal = ''
     let curso = ''
     switch (modal) {
         case 'arte':
             modfinal = "Bachiller con Orientación en Arte (Teatro)"
-            imgmod = './src/assets/imgs/diplomamedia.jpg'
+            imgmod = media
             curso = '6°6°'
             break;
         case 'sociales':
             modfinal = "Bachiller con Orientación en Ciencias Sociales"
-            imgmod = './src/assets/imgs/diplomamedia.jpg'
+            imgmod = media
             curso = '6°2°'
             break;
         case 'eco':
             modfinal = "Bachiller con Orientación en Economía y Administración"
-            imgmod = './src/assets/imgs/diplomamedia.jpg'
+            imgmod = media
             curso = '6°3°'
-            break;
-        case 'info':
-            modfinal = "Técnico en Informática Personal y Profesional"
-            imgmod = './src/assets/imgs/diplomatec.jpg'
-            curso = '7°1°'
             break;
         case 'info1':
             modfinal = "Técnico en Informática Personal y Profesional"
-            imgmod = './src/assets/imgs/diplomatec.jpg'
+            imgmod = tec
+            curso = '7°1°'
+            break;
+        case 'info2':
+            modfinal = "Técnico en Informática Personal y Profesional"
+            imgmod = tec
             curso = '7°3°'
             break;
         case 'alim':
             modfinal = "Técnico en Tecnología de los Alimentos"
-            imgmod = './src/assets/imgs/diplomatec.jpg'
+            imgmod = tec
             curso = '7°2°'
             break;
     }

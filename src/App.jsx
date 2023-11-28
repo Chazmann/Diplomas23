@@ -11,6 +11,9 @@ import { Link } from 'react-router-dom'
 import { Arte } from "./assets/componentes/modalidades/Arte";
 import { Sociales } from "./assets/componentes/modalidades/Sociales";
 import { Gestion } from "./assets/componentes/modalidades/Gestion";
+import { Info2 } from "./assets/componentes/modalidades/Info2";
+import { Info1 } from "./assets/componentes/modalidades/Info1";
+import { Alimentos } from "./assets/componentes/modalidades/Alim";
 
 function App() {
   return (
@@ -29,7 +32,7 @@ function App() {
                   <div className="hover ocultomobile titilium white">DiplomApp</div>
                 </div>
                 <nav className='unica link'>
-                  <WavyLink to="/diplomas23" color="#3586ff">
+                  <WavyLink to="/info1" color="#3586ff">
                     <div className="link">Informática 1</div>
                   </WavyLink>
                   <WavyLink to="/info2" color="#3586ff">
@@ -65,6 +68,9 @@ function App() {
           <Route path="/arte" element={<Arte />} />
           <Route path="/sociales" element={<Sociales />} />
           <Route path="/gestion" element={<Gestion />} />
+          <Route path="/info1" element={<Info1 />} />
+          <Route path="/info2" element={<Info2 />} />
+          <Route path="/alim" element={<Alimentos />} />
           <Route path="*" element={<div className="container unica"><br /><h2><center>404 - LA RUTA DESEADA NO ESTÁ DISPONIBLE <br /> <WavyLink to="/" color="#3586ff">
             <div className="link">Volver</div>
           </WavyLink></center></h2></div>} />
