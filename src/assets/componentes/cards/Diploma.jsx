@@ -60,7 +60,7 @@ export const Diploma = (props) => {
                 <h4>Tiene el privilegio de otorgar el presente DIPLOMA a:</h4>
                 <h1 className='alumno'>{props.alumnos}</h1>
                 <h4>Por cuanto ha cursado el ciclo de estudios en</h4>
-                <h2 className='modalidad'>{modfinal}</h2>
+                <h4 className='modalidad'>{modfinal}</h4>
 
             </div>
 
