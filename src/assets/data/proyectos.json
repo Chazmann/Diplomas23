@@ -1,27 +1,117 @@
 [
   {
-    "id": 0,
-    "modalidad": "info",
-    "alumnos": "Francisco Behrendt Petri"
+    "id": 3900,
+    "modalidad": "info1",
+    "alumnos": "BEHRENDT PETRI FRANCISCO"
   },
   {
-    "id": 1,
-    "modalidad": "arte",
-    "alumnos": "Enzo Francescolli"
+    "id": 3430,
+    "modalidad": "info1",
+    "alumnos": "BERZA LUCIANO"
   },
   {
-    "id": 2,
-    "modalidad": "sociales",
-    "alumnos": "Jimena Kamps"
+    "id": 3905,
+    "modalidad": "info1",
+    "alumnos": "BRETON NICOLAS"
   },
   {
-    "id": 3,
-    "modalidad": "alim",
-    "alumnos": "Luciano Brito"
+    "id": 3853,
+    "modalidad": "info1",
+    "alumnos": "BRITO LUCIANO"
   },
   {
-    "id": 4,
-    "modalidad": "eco",
-    "alumnos": "Juan Agustín Brito"
+    "id": 3892,
+    "modalidad": "info1",
+    "alumnos": "CASTRO GONZALO JOAQUIN"
+  },
+  {
+    "id": 3930,
+    "modalidad": "info1",
+    "alumnos": "CERNADAS ARIEL"
+  },
+  {
+    "id": 3890,
+    "modalidad": "info1",
+    "alumnos": "DE LUCA TAIEL"
+  },
+  {
+    "id": 3894,
+    "modalidad": "info1",
+    "alumnos": "FEIJOO FLORENCIA"
+  },
+  {
+    "id": 3889,
+    "modalidad": "info1",
+    "alumnos": "GOMEZ JUANA"
+  },
+  {
+    "id": 3359,
+    "modalidad": "info1",
+    "alumnos": "GOMEZ MAYORGA ULISES"
+  },
+  {
+    "id": 8489,
+    "modalidad": "info1",
+    "alumnos": "LOPEZ CAMILA FLORENCIA"
+  },
+  {
+    "id": 3937,
+    "modalidad": "info1",
+    "alumnos": "MATIJASEVICH MARCOS"
+  },
+  {
+    "id": 3897,
+    "modalidad": "info1",
+    "alumnos": "MAYORGA GONZALO"
+  },
+  {
+    "id": 3918,
+    "modalidad": "info1",
+    "alumnos": "NARDI GIARDINO AGUSTIN"
+  },
+  {
+    "id": 3913,
+    "modalidad": "info1",
+    "alumnos": "PIHUALA MATEO"
+  },
+  {
+    "id": 3874,
+    "modalidad": "info1",
+    "alumnos": "PINARDI JUAN"
+  },
+  {
+    "id": 3846,
+    "modalidad": "info1",
+    "alumnos": "PORCEL MATEO"
+  },
+  {
+    "id": 3856,
+    "modalidad": "info1",
+    "alumnos": "POSSI JOAQUIN"
+  },
+  {
+    "id": 3896,
+    "modalidad": "info1",
+    "alumnos": "RAMIREZ AXEL"
+  },
+  {
+    "id": 3857,
+    "modalidad": "info1",
+    "alumnos": "ROMANO ROSARIO"
+  },
+  {
+    "id": 3844,
+    "modalidad": "info1",
+    "alumnos": "ROMERO JOAQUIN"
+  },
+  {
+    "id": 3893,
+    "modalidad": "info1",
+    "alumnos": "SIERRA FERNANDO"
+  },
+  {
+    "id": 3882,
+    "modalidad": "info1",
+    "alumnos": "TORENA BASTOS MARIANO"
   }
 ]

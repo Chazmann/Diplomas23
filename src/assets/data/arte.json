@@ -1,46 +1,112 @@
 [
   {
-    "id": 0,
+    "id": 1,
     "modalidad": "arte",
-    "escuela": "media",
-    "alumnos": "Francisco Behrendt Petri"
-      },
-  {
-    "id": 0,
-    "modalidad": "arte",
-    "escuela": "media",
-    "alumnos": "Francisco Behrendt Petri"
-      }
-,
+    "alumnos": "AGUIRRE MARIA PIA"
+  },
   {
     "id": 2,
     "modalidad": "arte",
-    "escuela": "tecnica",
-    
-    "proyecto": "Simulador de Comida",
-    "descrip": "Los alumnos elaboraron con 2 impresoras matriz de punto un simulador de vuelo con sensaciones gravitatorias incomparables",
-    "alumnos": "Jimena Kamps",
-    "url": "#",
-    "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpUmvwqNLNevVWmfxQQQKB9-GyiUPa-cVuQ&usqp=CAU"
+    "alumnos": "AGUIRRE PALOMA"
   },
   {
     "id": 3,
     "modalidad": "arte",
-   
-    "proyecto": "ALL School - Gestión Escolar",
-    "descrip": "Los alumnos un sistema de gestión integral escolar. Ahora disponible para celulares",
-    "alumnos": "Juan Pinardi",
-    "url": "https://allschool.com.ar/",
-    "imgurl": "https://allschool.com.ar/img/img-general/new-icon.svg"
+    "alumnos": "ALBORNOZ LUNA"
   },
   {
     "id": 4,
     "modalidad": "arte",
-    
-    "proyecto": "ALL School - Gestión Escolar",
-    "descrip": "Los alumnos un sistema de gestión integral escolar. Ahora disponible para celulares",
-    "alumnos": "Juan Pinardi",
-    "url": "https://allschool.com.ar/",
-    "imgurl": "https://allschool.com.ar/img/img-general/new-icon.svg"
+    "alumnos": "BUSTOS DYLAN"
+  },
+  {
+    "id": 5,
+    "modalidad": "arte",
+    "alumnos": "CAMPOS CASCIANO GIULIANA"
+  },
+  {
+    "id": 6,
+    "modalidad": "arte",
+    "alumnos": "FIUMARA ANGELES"
+  },
+  {
+    "id": 7,
+    "modalidad": "arte",
+    "alumnos": "KAIP GABRIEL"
+  },
+  {
+    "id": 8,
+    "modalidad": "arte",
+    "alumnos": "LOZA ABRIL"
+  },
+  {
+    "id": 9,
+    "modalidad": "arte",
+    "alumnos": "MEZA NOAH"
+  },
+  {
+    "id": 10,
+    "modalidad": "arte",
+    "alumnos": "OTERO KIARA"
+  },
+  {
+    "id": 11,
+    "modalidad": "arte",
+    "alumnos": "PAVON MARTINA"
+  },
+  {
+    "id": 12,
+    "modalidad": "arte",
+    "alumnos": "PEREZ ROCIO"
+  },
+  {
+    "id": 13,
+    "modalidad": "arte",
+    "alumnos": "ROMERO LUCIA"
+  },
+  {
+    "id": 14,
+    "modalidad": "arte",
+    "alumnos": "ROMERO MARIA EUGENIA"
+  },
+  {
+    "id": 15,
+    "modalidad": "arte",
+    "alumnos": "ROMERO MARIA VICTORIA"
+  },
+  {
+    "id": 16,
+    "modalidad": "arte",
+    "alumnos": "SANTUCHO LUDMILA"
+  },
+  {
+    "id": 17,
+    "modalidad": "arte",
+    "alumnos": "SCHWINDT  KEILA"
+  },
+  {
+    "id": 18,
+    "modalidad": "arte",
+    "alumnos": "SOARES AIXA ARIADNA"
+  },
+  {
+    "id": 19,
+    "modalidad": "arte",
+    "alumnos": "SOSA JOAQUIN"
+  },
+  {
+    "id": 20,
+    "modalidad": "arte",
+    "alumnos": "TRINCHINI MICAELA"
+  },
+  {
+    "id": 21,
+    "modalidad": "arte",
+    "alumnos": "TROSSERO GIULIANO SANTINO"
+  },
+  {
+    "id": 22,
+    "modalidad": "arte",
+    "alumnos": "VACA RODRIGUEZ ZOE"
   }
 ]

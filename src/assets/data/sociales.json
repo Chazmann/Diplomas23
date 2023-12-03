@@ -1,46 +1,182 @@
 [
   {
-    "id": 0,
+    "id": 1,
     "modalidad": "sociales",
-    "escuela": "media",
-    "alumnos": "Francisco Behrendt Petri"
-      },
-  {
-    "id": 0,
-    "modalidad": "sociales",
-    "escuela": "media",
-    "alumnos": "Francisco Behrendt Petri"
-      }
-,
+    "alumnos": "ANZORENA EMANUEL"
+  },
   {
     "id": 2,
     "modalidad": "sociales",
-    "escuela": "tecnica",
-    
-    "proyecto": "Simulador de Comida",
-    "descrip": "Los alumnos elaboraron con 2 impresoras matriz de punto un simulador de vuelo con sensaciones gravitatorias incomparables",
-    "alumnos": "Jimena Kamps",
-    "url": "#",
-    "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpUmvwqNLNevVWmfxQQQKB9-GyiUPa-cVuQ&usqp=CAU"
+    "alumnos": "BEHRENDT PETRI THOMAS"
   },
   {
     "id": 3,
     "modalidad": "sociales",
-   
-    "proyecto": "ALL School - Gestión Escolar",
-    "descrip": "Los alumnos un sistema de gestión integral escolar. Ahora disponible para celulares",
-    "alumnos": "Juan Pinardi",
-    "url": "https://allschool.com.ar/",
-    "imgurl": "https://allschool.com.ar/img/img-general/new-icon.svg"
+    "alumnos": "BELMUDES MELANIE"
   },
   {
     "id": 4,
     "modalidad": "sociales",
-    
-    "proyecto": "ALL School - Gestión Escolar",
-    "descrip": "Los alumnos un sistema de gestión integral escolar. Ahora disponible para celulares",
-    "alumnos": "Juan Pinardi",
-    "url": "https://allschool.com.ar/",
-    "imgurl": "https://allschool.com.ar/img/img-general/new-icon.svg"
+    "alumnos": "BORDON MILAGROS"
+  },
+  {
+    "id": 5,
+    "modalidad": "sociales",
+    "alumnos": "CARDENA TOGNOLINI EUGENIA"
+  },
+  {
+    "id": 6,
+    "modalidad": "sociales",
+    "alumnos": "CASTRO JUAN ELIAS"
+  },
+  {
+    "id": 7,
+    "modalidad": "sociales",
+    "alumnos": "CRUZ LOPEZ ERIKA"
+  },
+  {
+    "id": 8,
+    "modalidad": "sociales",
+    "alumnos": "CUEVAS SOFIA"
+  },
+  {
+    "id": 9,
+    "modalidad": "sociales",
+    "alumnos": "CUEVAS VALENTINA"
+  },
+  {
+    "id": 10,
+    "modalidad": "sociales",
+    "alumnos": "DIAZ PALAVECINO MAIKOL"
+  },
+  {
+    "id": 11,
+    "modalidad": "sociales",
+    "alumnos": "ESCOBEDO LUCIA"
+  },
+  {
+    "id": 12,
+    "modalidad": "sociales",
+    "alumnos": "FERNANDEZ JULIAN"
+  },
+  {
+    "id": 13,
+    "modalidad": "sociales",
+    "alumnos": "GARCIA GIANFRANCO"
+  },
+  {
+    "id": 14,
+    "modalidad": "sociales",
+    "alumnos": "GARCIA MARTINA"
+  },
+  {
+    "id": 15,
+    "modalidad": "sociales",
+    "alumnos": "GARIMATTI SANTINO"
+  },
+  {
+    "id": 16,
+    "modalidad": "sociales",
+    "alumnos": "GAUNA LIONEL"
+  },
+  {
+    "id": 17,
+    "modalidad": "sociales",
+    "alumnos": "GOMEZ PRISCILA"
+  },
+  {
+    "id": 18,
+    "modalidad": "sociales",
+    "alumnos": "HERRERA MALVINA"
+  },
+  {
+    "id": 19,
+    "modalidad": "sociales",
+    "alumnos": "HIDALGO MARTINA"
+  },
+  {
+    "id": 20,
+    "modalidad": "sociales",
+    "alumnos": "JORA HELENA"
+  },
+  {
+    "id": 21,
+    "modalidad": "sociales",
+    "alumnos": "LUGO LUCIA"
+  },
+  {
+    "id": 22,
+    "modalidad": "sociales",
+    "alumnos": "MANTIÑAN MARIA TRINIDAD"
+  },
+  {
+    "id": 23,
+    "modalidad": "sociales",
+    "alumnos": "MARTINEZ CAMILA"
+  },
+  {
+    "id": 24,
+    "modalidad": "sociales",
+    "alumnos": "MILAN PARE NAHUEL"
+  },
+  {
+    "id": 25,
+    "modalidad": "sociales",
+    "alumnos": "MIRCHENKO ANGEL"
+  },
+  {
+    "id": 26,
+    "modalidad": "sociales",
+    "alumnos": "NUÑEZ VATCHOFF PILAR"
+  },
+  {
+    "id": 27,
+    "modalidad": "sociales",
+    "alumnos": "ROLON LUCIA"
+  },
+  {
+    "id": 28,
+    "modalidad": "sociales",
+    "alumnos": "SALGUEIRO LAUTARO"
+  },
+  {
+    "id": 29,
+    "modalidad": "sociales",
+    "alumnos": "SANTILLAN MUÑIZ RENATA"
+  },
+  {
+    "id": 30,
+    "modalidad": "sociales",
+    "alumnos": "SEQUEIRA ALISSON"
+  },
+  {
+    "id": 31,
+    "modalidad": "sociales",
+    "alumnos": "SERRANO AGUSTINA"
+  },
+  {
+    "id": 32,
+    "modalidad": "sociales",
+    "alumnos": "SERRATTO EMILIA"
+  },
+  {
+    "id": 33,
+    "modalidad": "sociales",
+    "alumnos": "TABOADA MILAGROS"
+  },
+  {
+    "id": 34,
+    "modalidad": "sociales",
+    "alumnos": "TORO MILAGROS"
+  },
+  {
+    "id": 35,
+    "modalidad": "sociales",
+    "alumnos": "VEGA JULIA"
+  },
+  {
+    "id": 36,
+    "modalidad": "sociales",
+    "alumnos": "VELARDEZ DUCOMBS JOAQUIN"
   }
 ]

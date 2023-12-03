@@ -1,23 +1,117 @@
 [
   {
-    "id": 0,
-    "modalidad": "alim",  
-    "alumnos": "Josefina Choque Jarpa"
-      },
-  {
-    "id": 1,
+    "id": 3898,
     "modalidad": "alim",
-    "alumnos": "Maximiliano Gonzalez Gonzalez"
-      }
-,
-  {
-    "id": 2,
-    "modalidad": "alim",
-    "alumnos": "Alumno 2"
+    "alumnos": "ALEGRE SANTIAGO"
   },
-  {"id": 3,
-  "modalidad": "alim",
-  "alumnos": "Juan Pablo Salleras Tiesi"
-}
-    
+  {
+    "id": 3899,
+    "modalidad": "alim",
+    "alumnos": "ATAIDE MARIANELA"
+  },
+  {
+    "id": 3885,
+    "modalidad": "alim",
+    "alumnos": "BLANCO MARTIN"
+  },
+  {
+    "id": 3934,
+    "modalidad": "alim",
+    "alumnos": "CABRAL MELINA"
+  },
+  {
+    "id": 3431,
+    "modalidad": "alim",
+    "alumnos": "CACERES CAMILA"
+  },
+  {
+    "id": 3466,
+    "modalidad": "alim",
+    "alumnos": "CARABAJAL FELIPE"
+  },
+  {
+    "id": 3854,
+    "modalidad": "alim",
+    "alumnos": "CASERAS MELINA"
+  },
+  {
+    "id": 3682,
+    "modalidad": "alim",
+    "alumnos": "CENA RAMIRO"
+  },
+  {
+    "id": 3715,
+    "modalidad": "alim",
+    "alumnos": "CORDOBA TOLOZA MAURO"
+  },
+  {
+    "id": 3709,
+    "modalidad": "alim",
+    "alumnos": "GALARZA LAUTARO"
+  },
+  {
+    "id": 3859,
+    "modalidad": "alim",
+    "alumnos": "GOMEZ FACUNDO"
+  },
+  {
+    "id": 3478,
+    "modalidad": "alim",
+    "alumnos": "GOMEZ ROTELA MARTIN"
+  },
+  {
+    "id": 3884,
+    "modalidad": "alim",
+    "alumnos": "LAURIA VALENTINO"
+  },
+  {
+    "id": 3871,
+    "modalidad": "alim",
+    "alumnos": "MATAS VERSOLATO FACUNDO"
+  },
+  {
+    "id": 3679,
+    "modalidad": "alim",
+    "alumnos": "MOUSO LAUTARO"
+  },
+  {
+    "id": 11755,
+    "modalidad": "alim",
+    "alumnos": "OJEDA VICTORIA"
+  },
+  {
+    "id": 3876,
+    "modalidad": "alim",
+    "alumnos": "PACHILLA TOMAS"
+  },
+  {
+    "id": 3861,
+    "modalidad": "alim",
+    "alumnos": "POBLETE ULISES"
+  },
+  {
+    "id": 3845,
+    "modalidad": "alim",
+    "alumnos": "RIOS PAZ JEANNETTE"
+  },
+  {
+    "id": 11980,
+    "modalidad": "alim",
+    "alumnos": "SILVERO LEANDRO"
+  },
+  {
+    "id": 3931,
+    "modalidad": "alim",
+    "alumnos": "UNAMUNO ROJAS NEHUEN"
+  },
+  {
+    "id": 7243,
+    "modalidad": "alim",
+    "alumnos": "VALENZUELA SOFIA"
+  },
+  {
+    "id": 3879,
+    "modalidad": "alim",
+    "alumnos": "VAQUEL PRISCILA"
+  }
 ]

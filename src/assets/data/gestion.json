@@ -1,23 +1,142 @@
 [
   {
-    "id": 0,
-    "modalidad": "eco",  
-    "alumnos": "Josefina Choque Jarpa"
-      },
-  {
     "id": 1,
-    "modalidad": "eco",
-    "alumnos": "Maximiliano Gonzalez Gonzalez"
-      }
-,
+    "modalidad": "economia",
+    "alumnos": "ADAM SOFIA"
+  },
   {
     "id": 2,
-    "modalidad": "eco",
-    "alumnos": "Alumno 2"
+    "modalidad": "economia",
+    "alumnos": "AGUIRRE AYLEN"
   },
-  {"id": 3,
-  "modalidad": "eco",
-  "alumnos": "Juan Pablo Salleras Tiesi"
-}
-    
+  {
+    "id": 3,
+    "modalidad": "economia",
+    "alumnos": "ARANCIBIA AGUSTINA"
+  },
+  {
+    "id": 4,
+    "modalidad": "economia",
+    "alumnos": "CABALLERO POLETTI CARMELO"
+  },
+  {
+    "id": 5,
+    "modalidad": "economia",
+    "alumnos": "CAMORIANO TOMAS"
+  },
+  {
+    "id": 6,
+    "modalidad": "economia",
+    "alumnos": "CASCALLARES TIAGO"
+  },
+  {
+    "id": 7,
+    "modalidad": "economia",
+    "alumnos": "CECI DAVID"
+  },
+  {
+    "id": 8,
+    "modalidad": "economia",
+    "alumnos": "CORTES FABRICIO"
+  },
+  {
+    "id": 9,
+    "modalidad": "economia",
+    "alumnos": "FLORES ALEJO"
+  },
+  {
+    "id": 10,
+    "modalidad": "economia",
+    "alumnos": "FRECCERO FRANCESCO"
+  },
+  {
+    "id": 11,
+    "modalidad": "economia",
+    "alumnos": "GODOY GERMAN"
+  },
+  {
+    "id": 12,
+    "modalidad": "economia",
+    "alumnos": "GONZALEZ JULIETA"
+  },
+  {
+    "id": 13,
+    "modalidad": "economia",
+    "alumnos": "INFANTE KIARA"
+  },
+  {
+    "id": 14,
+    "modalidad": "economia",
+    "alumnos": "LOPEZ BRENDA"
+  },
+  {
+    "id": 15,
+    "modalidad": "economia",
+    "alumnos": "LOPEZ CLAUDIO"
+  },
+  {
+    "id": 16,
+    "modalidad": "economia",
+    "alumnos": "MASSACANE SANTIAGO"
+  },
+  {
+    "id": 17,
+    "modalidad": "economia",
+    "alumnos": "MEYER PAZ ISAIAS"
+  },
+  {
+    "id": 18,
+    "modalidad": "economia",
+    "alumnos": "MOYANO RODRIGO"
+  },
+  {
+    "id": 19,
+    "modalidad": "economia",
+    "alumnos": "NANINI FIAMMA"
+  },
+  {
+    "id": 20,
+    "modalidad": "economia",
+    "alumnos": "NAVARRO MELINA"
+  },
+  {
+    "id": 21,
+    "modalidad": "economia",
+    "alumnos": "OBANDO BOGADO LUZMILA"
+  },
+  {
+    "id": 22,
+    "modalidad": "economia",
+    "alumnos": "PEREYRA FLORENCIA"
+  },
+  {
+    "id": 23,
+    "modalidad": "economia",
+    "alumnos": "PUCHETA LAUTARO"
+  },
+  {
+    "id": 24,
+    "modalidad": "economia",
+    "alumnos": "ROBLEDO BENJAMIN"
+  },
+  {
+    "id": 25,
+    "modalidad": "economia",
+    "alumnos": "SILVERA MAIRA"
+  },
+  {
+    "id": 26,
+    "modalidad": "economia",
+    "alumnos": "STACHIONI OCHOVA MERLINA"
+  },
+  {
+    "id": 27,
+    "modalidad": "economia",
+    "alumnos": "VIVAS ABRIL"
+  },
+  {
+    "id": 28,
+    "modalidad": "economia",
+    "alumnos": "WAGNER VALLEJOS EMILIO"
+  }
 ]

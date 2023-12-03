@@ -23,7 +23,7 @@ export const Diploma = (props) => {
             imgmod = media
             curso = '6°2°'
             break;
-        case 'eco':
+        case 'economia':
             modfinal = "Bachiller con Orientación en Economía y Administración"
             imgmod = media
             curso = '6°3°'

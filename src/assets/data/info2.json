@@ -1,23 +1,102 @@
 [
   {
-    "id": 0,
-    "modalidad": "info2",  
-    "alumnos": "Josefina Choque Jarpa"
-      },
-  {
-    "id": 1,
+    "id": 12131,
     "modalidad": "info2",
-    "alumnos": "Maximiliano Gonzalez Gonzalez"
-      }
-,
-  {
-    "id": 2,
-    "modalidad": "info2",
-    "alumnos": "Alumno 2"
+    "alumnos": "BENITEZ LUKA"
   },
-  {"id": 3,
-  "modalidad": "info2",
-  "alumnos": "Juan Pablo Salleras Tiesi"
-}
-    
+  {
+    "id": 7239,
+    "modalidad": "info3",
+    "alumnos": "BUSTAMANTE FERNANDO"
+  },
+  {
+    "id": 12235,
+    "modalidad": "info4",
+    "alumnos": "CARRAZANA SANTIAGO"
+  },
+  {
+    "id": 3813,
+    "modalidad": "info5",
+    "alumnos": "CEDRON NAHUEL"
+  },
+  {
+    "id": 10092,
+    "modalidad": "info6",
+    "alumnos": "DELGADILLO CACERES KHARLYT"
+  },
+  {
+    "id": 11969,
+    "modalidad": "info7",
+    "alumnos": "ENRIQUEZ MELANY"
+  },
+  {
+    "id": 3904,
+    "modalidad": "info8",
+    "alumnos": "GIMENEZ JULIO"
+  },
+  {
+    "id": 3864,
+    "modalidad": "info9",
+    "alumnos": "JUAREZ GERMAN"
+  },
+  {
+    "id": 3881,
+    "modalidad": "info10",
+    "alumnos": "LEDESMA JUAN JOSE"
+  },
+  {
+    "id": 7247,
+    "modalidad": "info11",
+    "alumnos": "LEDEZMA NUÑEZ SERGIO"
+  },
+  {
+    "id": 11991,
+    "modalidad": "info12",
+    "alumnos": "MORLEO SOFIA"
+  },
+  {
+    "id": 11995,
+    "modalidad": "info13",
+    "alumnos": "PEDRAZA JUAN JOSE"
+  },
+  {
+    "id": 7242,
+    "modalidad": "info14",
+    "alumnos": "QUINTANA LAUTARO"
+  },
+  {
+    "id": 11959,
+    "modalidad": "info15",
+    "alumnos": "ROSSINI IVAN FERNANDO"
+  },
+  {
+    "id": 3867,
+    "modalidad": "info16",
+    "alumnos": "SCHANWARZKOFF AGUSTIN"
+  },
+  {
+    "id": 3870,
+    "modalidad": "info17",
+    "alumnos": "SCHERBIN PALHUA MARIA"
+  },
+  {
+    "id": 3907,
+    "modalidad": "info18",
+    "alumnos": "SMOLAR FELIPE"
+  },
+  {
+    "id": 11996,
+    "modalidad": "info19",
+    "alumnos": "TORRES EVA"
+  },
+  {
+    "id": 12011,
+    "modalidad": "info20",
+    "alumnos": "TORRES VERONICA"
+  },
+  {
+    "id": 11084,
+    "modalidad": "info21",
+    "alumnos": "VILLALBA JULIETA"
+  }
 ]
