@@ -1,117 +1,31 @@
 [
-  {
-    "id": 3900,
-    "modalidad": "info1",
-    "alumnos": "BEHRENDT PETRI FRANCISCO"
-  },
-  {
-    "id": 3430,
-    "modalidad": "info1",
-    "alumnos": "BERZA LUCIANO"
-  },
-  {
-    "id": 3905,
-    "modalidad": "info1",
-    "alumnos": "BRETON NICOLAS"
-  },
-  {
-    "id": 3853,
-    "modalidad": "info1",
-    "alumnos": "BRITO LUCIANO"
-  },
-  {
-    "id": 3892,
-    "modalidad": "info1",
-    "alumnos": "CASTRO GONZALO JOAQUIN"
-  },
-  {
-    "id": 3930,
-    "modalidad": "info1",
-    "alumnos": "CERNADAS ARIEL"
-  },
-  {
-    "id": 3890,
-    "modalidad": "info1",
-    "alumnos": "DE LUCA TAIEL"
-  },
-  {
-    "id": 3894,
-    "modalidad": "info1",
-    "alumnos": "FEIJOO FLORENCIA"
-  },
-  {
-    "id": 3889,
-    "modalidad": "info1",
-    "alumnos": "GOMEZ JUANA"
-  },
-  {
-    "id": 3359,
-    "modalidad": "info1",
-    "alumnos": "GOMEZ MAYORGA ULISES"
-  },
-  {
-    "id": 8489,
-    "modalidad": "info1",
-    "alumnos": "LOPEZ CAMILA FLORENCIA"
-  },
-  {
-    "id": 3937,
-    "modalidad": "info1",
-    "alumnos": "MATIJASEVICH MARCOS"
-  },
-  {
-    "id": 3897,
-    "modalidad": "info1",
-    "alumnos": "MAYORGA GONZALO"
-  },
-  {
-    "id": 3918,
-    "modalidad": "info1",
-    "alumnos": "NARDI GIARDINO AGUSTIN"
-  },
-  {
-    "id": 3913,
-    "modalidad": "info1",
-    "alumnos": "PIHUALA MATEO"
-  },
-  {
-    "id": 3874,
-    "modalidad": "info1",
-    "alumnos": "PINARDI JUAN"
-  },
-  {
-    "id": 3846,
-    "modalidad": "info1",
-    "alumnos": "PORCEL MATEO"
-  },
-  {
-    "id": 3856,
-    "modalidad": "info1",
-    "alumnos": "POSSI JOAQUIN"
-  },
-  {
-    "id": 3896,
-    "modalidad": "info1",
-    "alumnos": "RAMIREZ AXEL"
-  },
-  {
-    "id": 3857,
-    "modalidad": "info1",
-    "alumnos": "ROMANO ROSARIO"
-  },
-  {
-    "id": 3844,
-    "modalidad": "info1",
-    "alumnos": "ROMERO JOAQUIN"
-  },
-  {
-    "id": 3893,
-    "modalidad": "info1",
-    "alumnos": "SIERRA FERNANDO"
-  },
-  {
-    "id": 3882,
-    "modalidad": "info1",
-    "alumnos": "TORENA BASTOS MARIANO"
-  }
+  { "id": 1, "modalidad": "info1", "alumnos": "BERNAL CONDE Santiago Thomas" },
+  { "id": 2, "modalidad": "info1", "alumnos": "CABRAL Cristian Nicolás" },
+  { "id": 3, "modalidad": "info1", "alumnos": "CARNEIRO Lucrecia" },
+  { "id": 4, "modalidad": "info1", "alumnos": "CASARINO DUARTE Walter Martín" },
+  { "id": 5, "modalidad": "info1", "alumnos": "CERNADAS Ezequiel Martín" },
+  { "id": 6, "modalidad": "info1", "alumnos": "CLEMENTI Lionel" },
+  { "id": 7, "modalidad": "info1", "alumnos": "DER Joaquín" },
+  { "id": 8, "modalidad": "info1", "alumnos": "FONSECA Nahir Abril" },
+  { "id": 9, "modalidad": "info1", "alumnos": "GÓMEZ Santiago Nicolás" },
+  { "id": 10, "modalidad": "info1", "alumnos": "GONZÁLEZ Manuel Adán" },
+  { "id": 11, "modalidad": "info1", "alumnos": "GRANDIS Constanza Pilar" },
+  { "id": 12, "modalidad": "info1", "alumnos": "HERRERA Alondra Eliana" },
+  { "id": 13, "modalidad": "info1", "alumnos": "HERRERA Thiago Tomás" },
+  { "id": 14, "modalidad": "info1", "alumnos": "INHOUDS Delfina Valeria" },
+  { "id": 15, "modalidad": "info1", "alumnos": "INSAURRALDE Bautista Mateo" },
+  { "id": 16, "modalidad": "info1", "alumnos": "LÓPEZ Milena Elizabeth" },
+  { "id": 17, "modalidad": "info1", "alumnos": "MARCHEGIANI Marco Oscar" },
+  { "id": 18, "modalidad": "info1", "alumnos": "MARTÍNEZ Nahuel Benjamín" },
+  { "id": 19, "modalidad": "info1", "alumnos": "MEDINA Luna Agostina Noelia" },
+  { "id": 20, "modalidad": "info1", "alumnos": "MOLBERT Lionel Antú" },
+  { "id": 21, "modalidad": "info1", "alumnos": "MOSER Matías Rodolfo" },
+  { "id": 22, "modalidad": "info1", "alumnos": "PÁEZ Víctor Joaquín" },
+  { "id": 23, "modalidad": "info1", "alumnos": "PONCE Leonel Alexis" },
+  { "id": 24, "modalidad": "info1", "alumnos": "RANUCCI BALIÑA Román" },
+  { "id": 25, "modalidad": "info1", "alumnos": "ROJAS Mateo Isaías" },
+  { "id": 26, "modalidad": "info1", "alumnos": "SEIB Osvino Eduardo" },
+  { "id": 27, "modalidad": "info1", "alumnos": "SOSA Luis Ezequiel Oscar" },
+  { "id": 28, "modalidad": "info1", "alumnos": "STEINMEYER Ian Emmanuel Enrique" },
+  { "id": 29, "modalidad": "info1", "alumnos": "YUSTIZ SIERRA Aroon Josué" }
 ]

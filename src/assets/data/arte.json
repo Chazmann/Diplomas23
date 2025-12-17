@@ -1,112 +1,31 @@
 [
-  {
-    "id": 1,
-    "modalidad": "arte",
-    "alumnos": "AGUIRRE MARIA PIA"
-  },
-  {
-    "id": 2,
-    "modalidad": "arte",
-    "alumnos": "AGUIRRE PALOMA"
-  },
-  {
-    "id": 3,
-    "modalidad": "arte",
-    "alumnos": "ALBORNOZ LUNA"
-  },
-  {
-    "id": 4,
-    "modalidad": "arte",
-    "alumnos": "BUSTOS DYLAN"
-  },
-  {
-    "id": 5,
-    "modalidad": "arte",
-    "alumnos": "CAMPOS CASCIANO GIULIANA"
-  },
-  {
-    "id": 6,
-    "modalidad": "arte",
-    "alumnos": "FIUMARA ANGELES"
-  },
-  {
-    "id": 7,
-    "modalidad": "arte",
-    "alumnos": "KAIP GABRIEL"
-  },
-  {
-    "id": 8,
-    "modalidad": "arte",
-    "alumnos": "LOZA ABRIL"
-  },
-  {
-    "id": 9,
-    "modalidad": "arte",
-    "alumnos": "MEZA NOAH"
-  },
-  {
-    "id": 10,
-    "modalidad": "arte",
-    "alumnos": "OTERO KIARA"
-  },
-  {
-    "id": 11,
-    "modalidad": "arte",
-    "alumnos": "PAVON MARTINA"
-  },
-  {
-    "id": 12,
-    "modalidad": "arte",
-    "alumnos": "PEREZ ROCIO"
-  },
-  {
-    "id": 13,
-    "modalidad": "arte",
-    "alumnos": "ROMERO LUCIA"
-  },
-  {
-    "id": 14,
-    "modalidad": "arte",
-    "alumnos": "ROMERO MARIA EUGENIA"
-  },
-  {
-    "id": 15,
-    "modalidad": "arte",
-    "alumnos": "ROMERO MARIA VICTORIA"
-  },
-  {
-    "id": 16,
-    "modalidad": "arte",
-    "alumnos": "SANTUCHO LUDMILA"
-  },
-  {
-    "id": 17,
-    "modalidad": "arte",
-    "alumnos": "SCHWINDT  KEILA"
-  },
-  {
-    "id": 18,
-    "modalidad": "arte",
-    "alumnos": "SOARES AIXA ARIADNA"
-  },
-  {
-    "id": 19,
-    "modalidad": "arte",
-    "alumnos": "SOSA JOAQUIN"
-  },
-  {
-    "id": 20,
-    "modalidad": "arte",
-    "alumnos": "TRINCHINI MICAELA"
-  },
-  {
-    "id": 21,
-    "modalidad": "arte",
-    "alumnos": "TROSSERO GIULIANO SANTINO"
-  },
-  {
-    "id": 22,
-    "modalidad": "arte",
-    "alumnos": "VACA RODRIGUEZ ZOE"
-  }
+  { "id": 1, "modalidad": "arte", "alumnos": "CABRAL Ludmila Yasmin" },
+  { "id": 2, "modalidad": "arte", "alumnos": "CARDOZO Dylan Javier" },
+  { "id": 3, "modalidad": "arte", "alumnos": "CEJAS Carolina Tiara" },
+  { "id": 4, "modalidad": "arte", "alumnos": "CHACÓN Luz Ayelén" },
+  { "id": 5, "modalidad": "arte", "alumnos": "DILELLA Luz Candela" },
+  { "id": 6, "modalidad": "arte", "alumnos": "FERNÁNDEZ Federica Sofía" },
+  { "id": 7, "modalidad": "arte", "alumnos": "FERNÁNDEZ Renata Ernestina" },
+  { "id": 8, "modalidad": "arte", "alumnos": "FERRÓN Tahis Milena Yazmin" },
+  { "id": 9, "modalidad": "arte", "alumnos": "FORTUNATO AZCURRA María del Pilar" },
+  { "id": 10, "modalidad": "arte", "alumnos": "GAUNA DURISBURU Brisa Ailén" },
+  { "id": 11, "modalidad": "arte", "alumnos": "GONZÁLEZ Lautaro Gabriel" },
+  { "id": 12, "modalidad": "arte", "alumnos": "KLEIN Valentina" },
+  { "id": 13, "modalidad": "arte", "alumnos": "LAFFAN Victoria" },
+  { "id": 14, "modalidad": "arte", "alumnos": "LEGAL Abril Azul" },
+  { "id": 15, "modalidad": "arte", "alumnos": "LÓPEZ GAUNA Navila Larisa" },
+  { "id": 16, "modalidad": "arte", "alumnos": "LÓPEZ PEREYRA Liz Pilar" },
+  { "id": 17, "modalidad": "arte", "alumnos": "LUCERO Luna Abril" },
+  { "id": 18, "modalidad": "arte", "alumnos": "MEDRANO Bautista Stefan" },
+  { "id": 19, "modalidad": "arte", "alumnos": "MORÁN BARRIENTOS Blas Alejandro" },
+  { "id": 20, "modalidad": "arte", "alumnos": "NAGY BIDEGAIN Coral" },
+  { "id": 21, "modalidad": "arte", "alumnos": "OLIVARES CANDIA Mariángeles Antonella" },
+  { "id": 22, "modalidad": "arte", "alumnos": "PALACIOS Morena" },
+  { "id": 23, "modalidad": "arte", "alumnos": "RAMÍREZ Marcos Agustín" },
+  { "id": 24, "modalidad": "arte", "alumnos": "RAMÍREZ Mía Evangelina" },
+  { "id": 25, "modalidad": "arte", "alumnos": "ROLÓN Febes Lara" },
+  { "id": 26, "modalidad": "arte", "alumnos": "SPINELLI Donatella Jazmín" },
+  { "id": 27, "modalidad": "arte", "alumnos": "SUÁREZ GESELLE Felipe" },
+  { "id": 28, "modalidad": "arte", "alumnos": "TROSSERO Tiziana Sofía Lourdes" },
+  { "id": 29, "modalidad": "arte", "alumnos": "VALDEZ VILLORDO Ignacio Jalil" }
 ]

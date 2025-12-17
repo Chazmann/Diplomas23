@@ -1,117 +1,29 @@
 [
-  {
-    "id": 3898,
-    "modalidad": "alim",
-    "alumnos": "ALEGRE SANTIAGO"
-  },
-  {
-    "id": 3899,
-    "modalidad": "alim",
-    "alumnos": "ATAIDE MARIANELA"
-  },
-  {
-    "id": 3885,
-    "modalidad": "alim",
-    "alumnos": "BLANCO MARTIN"
-  },
-  {
-    "id": 3934,
-    "modalidad": "alim",
-    "alumnos": "CABRAL MELINA"
-  },
-  {
-    "id": 3431,
-    "modalidad": "alim",
-    "alumnos": "CACERES CAMILA"
-  },
-  {
-    "id": 3466,
-    "modalidad": "alim",
-    "alumnos": "CARABAJAL FELIPE"
-  },
-  {
-    "id": 3854,
-    "modalidad": "alim",
-    "alumnos": "CASERAS MELINA"
-  },
-  {
-    "id": 3682,
-    "modalidad": "alim",
-    "alumnos": "CENA RAMIRO"
-  },
-  {
-    "id": 3715,
-    "modalidad": "alim",
-    "alumnos": "CORDOBA TOLOZA MAURO"
-  },
-  {
-    "id": 3709,
-    "modalidad": "alim",
-    "alumnos": "GALARZA LAUTARO"
-  },
-  {
-    "id": 3859,
-    "modalidad": "alim",
-    "alumnos": "GOMEZ FACUNDO"
-  },
-  {
-    "id": 3478,
-    "modalidad": "alim",
-    "alumnos": "GOMEZ ROTELA MARTIN"
-  },
-  {
-    "id": 3884,
-    "modalidad": "alim",
-    "alumnos": "LAURIA VALENTINO"
-  },
-  {
-    "id": 3871,
-    "modalidad": "alim",
-    "alumnos": "MATAS VERSOLATO FACUNDO"
-  },
-  {
-    "id": 3679,
-    "modalidad": "alim",
-    "alumnos": "MOUSO LAUTARO"
-  },
-  {
-    "id": 11755,
-    "modalidad": "alim",
-    "alumnos": "OJEDA VICTORIA"
-  },
-  {
-    "id": 3876,
-    "modalidad": "alim",
-    "alumnos": "PACHILLA TOMAS"
-  },
-  {
-    "id": 3861,
-    "modalidad": "alim",
-    "alumnos": "POBLETE ULISES"
-  },
-  {
-    "id": 3845,
-    "modalidad": "alim",
-    "alumnos": "RIOS PAZ JEANNETTE"
-  },
-  {
-    "id": 11980,
-    "modalidad": "alim",
-    "alumnos": "SILVERO LEANDRO"
-  },
-  {
-    "id": 3931,
-    "modalidad": "alim",
-    "alumnos": "UNAMUNO ROJAS NEHUEN"
-  },
-  {
-    "id": 7243,
-    "modalidad": "alim",
-    "alumnos": "VALENZUELA SOFIA"
-  },
-  {
-    "id": 3879,
-    "modalidad": "alim",
-    "alumnos": "VAQUEL PRISCILA"
-  }
+  { "id": 1, "modalidad": "alim", "alumnos": "BALBUENA Juana Paloma" },
+  { "id": 2, "modalidad": "alim", "alumnos": "BAUTISTA Fabricio Sebastián" },
+  { "id": 3, "modalidad": "alim", "alumnos": "BRÍTEZ Lucía Agustina" },
+  { "id": 4, "modalidad": "alim", "alumnos": "CABRERA Victoria" },
+  { "id": 5, "modalidad": "alim", "alumnos": "CEJAS Bianca Luz" },
+  { "id": 6, "modalidad": "alim", "alumnos": "CHACÓN Abril Rocío" },
+  { "id": 7, "modalidad": "alim", "alumnos": "CHAZARRETA Martina Tatiana" },
+  { "id": 8, "modalidad": "alim", "alumnos": "CORVALÁN Franco Lorenzo" },
+  { "id": 9, "modalidad": "alim", "alumnos": "DÁVALOS Santino Claudio" },
+  { "id": 10, "modalidad": "alim", "alumnos": "DURE Priscila Ayelén" },
+  { "id": 11, "modalidad": "alim", "alumnos": "FIGUEROA David Emanuel" },
+  { "id": 12, "modalidad": "alim", "alumnos": "FLORES SAÑUDO Francisco" },
+  { "id": 13, "modalidad": "alim", "alumnos": "FORTUNATO Mora" },
+  { "id": 14, "modalidad": "alim", "alumnos": "GALEANO Pilar Antonella" },
+  { "id": 15, "modalidad": "alim", "alumnos": "GARCÍA RODRÍGUEZ Renata" },
+  { "id": 16, "modalidad": "alim", "alumnos": "GIMÉNEZ ESTEVE Luz Valentina" },
+  { "id": 17, "modalidad": "alim", "alumnos": "GÓMEZ Román Oriel" },
+  { "id": 18, "modalidad": "alim", "alumnos": "HERRERA Martina" },
+  { "id": 19, "modalidad": "alim", "alumnos": "MASCHERPA Martina Nahir" },
+  { "id": 20, "modalidad": "alim", "alumnos": "NANNI Jonathan David" },
+  { "id": 21, "modalidad": "alim", "alumnos": "PAZOS JUÁREZ Uma Irina" },
+  { "id": 22, "modalidad": "alim", "alumnos": "PEREYRA Ezequiel Emiliano" },
+  { "id": 23, "modalidad": "alim", "alumnos": "QUIROGA Bianca Nahiara" },
+  { "id": 24, "modalidad": "alim", "alumnos": "ROTERIO DAURA Mateo Joaquín" },
+  { "id": 25, "modalidad": "alim", "alumnos": "SANTILLÁN Victoria Lucía" },
+  { "id": 26, "modalidad": "alim", "alumnos": "ZAPATA Candelaria Antonella" },
+  { "id": 27, "modalidad": "alim", "alumnos": "ZAPATA Noelia Lucía" }
 ]

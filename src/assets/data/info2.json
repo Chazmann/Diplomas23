@@ -1,102 +1,38 @@
 [
-  {
-    "id": 12131,
-    "modalidad": "info2",
-    "alumnos": "BENITEZ LUKA"
-  },
-  {
-    "id": 7239,
-    "modalidad": "info2",
-    "alumnos": "BUSTAMANTE FERNANDO"
-  },
-  {
-    "id": 12235,
-    "modalidad": "info2",
-    "alumnos": "CARRAZANA SANTIAGO"
-  },
-  {
-    "id": 3813,
-    "modalidad": "info2",
-    "alumnos": "CEDRON NAHUEL"
-  },
-  {
-    "id": 10092,
-    "modalidad": "info2",
-    "alumnos": "DELGADILLO CACERES KHARLYT"
-  },
-  {
-    "id": 11969,
-    "modalidad": "info2",
-    "alumnos": "ENRIQUEZ MELANY"
-  },
-  {
-    "id": 3904,
-    "modalidad": "info2",
-    "alumnos": "GIMENEZ JULIO"
-  },
-  {
-    "id": 3864,
-    "modalidad": "info2",
-    "alumnos": "JUAREZ GERMAN"
-  },
-  {
-    "id": 3881,
-    "modalidad": "info2",
-    "alumnos": "LEDESMA JUAN JOSE"
-  },
-  {
-    "id": 7247,
-    "modalidad": "info2",
-    "alumnos": "LEDEZMA NUÑEZ SERGIO"
-  },
-  {
-    "id": 11991,
-    "modalidad": "info2",
-    "alumnos": "MORLEO SOFIA"
-  },
-  {
-    "id": 11995,
-    "modalidad": "info2",
-    "alumnos": "PEDRAZA JUAN JOSE"
-  },
-  {
-    "id": 7242,
-    "modalidad": "info2",
-    "alumnos": "QUINTANA LAUTARO"
-  },
-  {
-    "id": 11959,
-    "modalidad": "info2",
-    "alumnos": "ROSSINI IVAN FERNANDO"
-  },
-  {
-    "id": 3867,
-    "modalidad": "info2",
-    "alumnos": "SCHANWARZKOFF AGUSTIN"
-  },
-  {
-    "id": 3870,
-    "modalidad": "info2",
-    "alumnos": "SCHERBIN PALHUA MARIA"
-  },
-  {
-    "id": 3907,
-    "modalidad": "info2",
-    "alumnos": "SMOLAR FELIPE"
-  },
-  {
-    "id": 11996,
-    "modalidad": "info2",
-    "alumnos": "TORRES EVA"
-  },
-  {
-    "id": 12011,
-    "modalidad": "info2",
-    "alumnos": "TORRES VERONICA"
-  },
-  {
-    "id": 11084,
-    "modalidad": "info2",
-    "alumnos": "VILLALBA JULIETA"
-  }
+  { "id": 1, "modalidad": "info2", "alumnos": "AGUIRRE BETETA Sebastián Antony" },
+  { "id": 2, "modalidad": "info2", "alumnos": "ALBINI Francesco Andrés" },
+  { "id": 3, "modalidad": "info2", "alumnos": "ALDERETE BELMUDES Thomas Agustín" },
+  { "id": 4, "modalidad": "info2", "alumnos": "ÁVALOS Pablo Santiago" },
+  { "id": 5, "modalidad": "info2", "alumnos": "BASLY Ian" },
+  { "id": 6, "modalidad": "info2", "alumnos": "BENÍTEZ Rosa Antonella" },
+  { "id": 7, "modalidad": "info2", "alumnos": "BENÍTEZ Tobías Gabriel" },
+  { "id": 8, "modalidad": "info2", "alumnos": "CÁCERES Nahuel Nicolás" },
+  { "id": 9, "modalidad": "info2", "alumnos": "CARRIZO Dylan Leonel" },
+  { "id": 10, "modalidad": "info2", "alumnos": "CHÁVEZ Mateo Ramiro" },
+  { "id": 11, "modalidad": "info2", "alumnos": "ESCOBAR Iván Ezequiel" },
+  { "id": 12, "modalidad": "info2", "alumnos": "FLORENCIO Elías Giuliano" },
+  { "id": 13, "modalidad": "info2", "alumnos": "FRANCO Giovanni Ignacio Valentino" },
+  { "id": 14, "modalidad": "info2", "alumnos": "GONZALIA Lian Luca" },
+  { "id": 15, "modalidad": "info2", "alumnos": "LEDESMA Julián Ignacio" },
+  { "id": 16, "modalidad": "info2", "alumnos": "LEYES Taís Loana del Carmen" },
+  { "id": 17, "modalidad": "info2", "alumnos": "LORENZO PERNET Tomás Adrián" },
+  { "id": 18, "modalidad": "info2", "alumnos": "LOZA Leandro Ezequiel" },
+  { "id": 19, "modalidad": "info2", "alumnos": "MAGGIOLO TORRICO Fiona Sofía" },
+  { "id": 20, "modalidad": "info2", "alumnos": "MALATESTA Rodrigo Alejo" },
+  { "id": 21, "modalidad": "info2", "alumnos": "MAZA Uriel" },
+  { "id": 22, "modalidad": "info2", "alumnos": "MILÁN PARE Facundo" },
+  { "id": 23, "modalidad": "info2", "alumnos": "MIRANDA HURTADO Valentina" },
+  { "id": 24, "modalidad": "info2", "alumnos": "ORTIZ NOGUERA Thomas Rafael" },
+  { "id": 25, "modalidad": "info2", "alumnos": "PIÑEYRO Cristian David" },
+  { "id": 26, "modalidad": "info2", "alumnos": "RODRÍGUEZ Bautista Ever Andrés" },
+  { "id": 27, "modalidad": "info2", "alumnos": "ROMERO Anaclara" },
+  { "id": 28, "modalidad": "info2", "alumnos": "SCABINI Rosio Gabriela" },
+  { "id": 29, "modalidad": "info2", "alumnos": "SECHUK Luis Leonel" },
+  { "id": 30, "modalidad": "info2", "alumnos": "SOTELO Pablo León" },
+  { "id": 31, "modalidad": "info2", "alumnos": "TEJADO Leandro Gabriel" },
+  { "id": 32, "modalidad": "info2", "alumnos": "TERRAZO BANEGAS Sebastián Nicolás" },
+  { "id": 33, "modalidad": "info2", "alumnos": "VALENZUELA Morena Abril" },
+  { "id": 34, "modalidad": "info2", "alumnos": "VÁZQUEZ Tomás Elian" },
+  { "id": 35, "modalidad": "info2", "alumnos": "VIZGARRA Francisco Santiago" },
+  { "id": 36, "modalidad": "info2", "alumnos": "WASZCZUK CHIESI Julián Yael" }
 ]

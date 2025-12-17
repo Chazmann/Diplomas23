@@ -1,13 +1,13 @@
 import './diploma.css'
-import tec from '/diplomatec.jpg'
-import media from '/diplomamedia.jpg'
+import tec from '/tec.png'
+import media from '/media.png'
 
 
 
 export const Diploma = (props) => {
     let mod = props.modalidad == 'Alimentos' ? 'alimentos' : 'info'
-    let imgmod = props.escuela == 'media' ? './diplomamedia.jpg' :
-        './diplomatec.jpg'
+    let imgmod = props.escuela == 'media' ? './2.png.' :
+        './1.png'
 
     let modal = props.modalidad;
     let modfinal = ''
@@ -57,9 +57,9 @@ export const Diploma = (props) => {
             <h2 className={mod}>{curso}</h2>
 
             <div className="nombre titilium">
-                <h4>Tiene el privilegio de otorgar el presente DIPLOMA a:</h4>
+                <h4>Otorga el presente diploma a:</h4>
                 <h1 className='alumno'>{props.alumnos}</h1>
-                <h4>Por cuanto ha cursado el ciclo de estudios en</h4>
+                <h4>Por haber cursado el ciclo de estudios de</h4>
                 <h4 className='modalidad'>{modfinal}</h4>
 
             </div>
